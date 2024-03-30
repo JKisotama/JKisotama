@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JKisotama
-- 👀 I’m interested in Blockchain, Mobile and Win Form Application
+- 👀 I’m interested in Blockchain, Mobile and Web API
 - 🌱 I’m currently learning Sui Move
 - ✅ I'm using languages: C#, Java, Kotlin
 
